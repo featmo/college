@@ -12,7 +12,7 @@ My introduction to lighting  in photography showed me the use of three point lig
 
 ### Three point lighting
 
-![three_point](C:\Users\Simon\Pictures\Moses\college\light\diagrams\three_point.jpg)
+![three_point](diagrams/three_point.jpg)
 
 *Diagram of three point lighting using Autodesk Maya*
 
