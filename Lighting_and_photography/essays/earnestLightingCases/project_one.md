@@ -13,7 +13,7 @@ At the point of reading this, it's assumed we have a fair understanding of light
 
 The first stage of the the interior lighting setup is simple, using any method we create a room and add lights... That's it.
 
-![scene_layout_001](C:\Users\Simon\Documents\Moses\college\college\Lighting_and_photography\essays\earnestLightingCases\diagrams\scene_layout_001.jpg)
+![scene_layout_001](./diagrams/scene_layout_001.jpg)
 
 *As a note, creating a room contained in a box mesh will do just fine, this setup is a rework of an open design, there previously were no walls flaking neither was there a roof, the walls and roof were added for the purpose of the light experiment.*
 
