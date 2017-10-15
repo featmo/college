@@ -1,4 +1,4 @@
-#Irish animation, Games and VFX Studios
+# Irish animation, Games and VFX Studios
 
 ## Demonware
 
@@ -15,7 +15,7 @@ Software Engineer
 Systems Engineer - Infrastructre
 SRE (Site Reliability)
 
-##Studiopowwow
+## tudiopowwow
 
 http://studiopowwow.com/services/
 
@@ -31,7 +31,7 @@ Providing development services such as:
 *Character design*
 *In-game animation*
 
-###Team includes
+### Team includes
 
 *Richard Glynn - CEO*
 *Eoghan Dalton - Creative Director*
