@@ -15,7 +15,7 @@ Software Engineer
 Systems Engineer - Infrastructre
 SRE (Site Reliability)
 
-## tudiopowwow
+## Studiopowwow
 
 http://studiopowwow.com/services/
 
